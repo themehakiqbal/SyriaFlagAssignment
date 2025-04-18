@@ -1,0 +1,39 @@
+.flag
+{
+    height: 320px;
+    width: 500px;
+    border: black solid 2px;
+}
+.top
+{
+    height: 110px;
+    width: 500px;
+    background-color: #cd1127;
+}
+.centre
+{
+    height: 80px;
+    width: 500px;
+    background-color: #ffffff;
+    display: inline;
+}
+.bottom
+{
+    height: 110px;
+    width: 500px;
+    background-color: #000000;
+}
+.star1
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right:30px;
+    margin-left: 155px; 
+}
+.star2
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right:155px;
+    margin-left: 30px; 
+}
